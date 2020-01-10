@@ -1,0 +1,4 @@
+owner: BoostIO
+repo: Boostnote.next
+provider: github
+updaterCacheDirName: boostnote-updater
